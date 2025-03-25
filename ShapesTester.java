@@ -1,4 +1,4 @@
-public class MyProgram
+public class ShapesTester
 {
     public static void main(String[] args)
     {
