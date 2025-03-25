@@ -20,7 +20,7 @@ public class Shapes {
     }
     
     public String toString(){
-        return color + " shaped " + name;
+        return color + " colored " + name;
     }
     
     
